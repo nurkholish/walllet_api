@@ -1,0 +1,13 @@
+.git
+.gitignore
+.bundle
+vendor/bundle
+log/*
+tmp/*
+node_modules
+.env
+.env.*
+!.env.example
+coverage
+spec/tmp
+db/*.sqlite3

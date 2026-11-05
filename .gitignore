@@ -1,0 +1,16 @@
+/.bundle
+/log/*
+/tmp/*
+.env
+.env.*
+!.env.example
+/db/*.sqlite3
+/coverage
+/vendor/bundle.wallet_api_*
+.wallet_api_*
+.wallet_api_*
+.wallet_api_*
+.wallet_api_*
+.wallet_api_*
+.wallet_api_*
+.wallet_api_*
